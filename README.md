@@ -42,6 +42,4 @@ My current work sits around TypeScript applications, Python services, Flutter/Da
 
 ## Links
 
-- Portfolio: [portfolio-website-iota-seven-35.vercel.app](https://portfolio-website-iota-seven-35.vercel.app)
 - GitHub: [github.com/ankitkumarsingh1702](https://github.com/ankitkumarsingh1702)
-
