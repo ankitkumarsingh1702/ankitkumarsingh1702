@@ -1,119 +1,101 @@
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Manrope&weight=800&size=34&duration=2600&pause=700&color=007AFF&center=true&vCenter=true&width=980&lines=Ankit+Kumar+Singh;Product+Engineer+for+Hushh+AI+Systems;Consent-Aware+Agents+%7C+Supabase+%7C+Automation)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Manrope&weight=800&size=34&duration=3400&pause=1600&color=007AFF&center=true&vCenter=true&width=980&lines=Ankit+Kumar+Singh;iOS-first+Product+Engineer;SwiftUI+%7C+Hushh+Agents+%7C+Consent-aware+AI)](https://git.io/typing-svg)
 
 [![GitHub](https://img.shields.io/badge/GitHub-ankitkumarsingh1702-007AFF?style=for-the-badge&logo=github&logoColor=FFFFFF&labelColor=000000)](https://github.com/ankitkumarsingh1702)
-[![Hushh Labs](https://img.shields.io/badge/Hushh%20Labs-product%20systems-001F3F?style=for-the-badge&logo=github&logoColor=FFFFFF&labelColor=000000)](https://github.com/hushh-labs)
-[![Palette](https://img.shields.io/badge/Palette-black%20%7C%20white%20%7C%20navy%20%7C%20iOS%20blue-007AFF?style=for-the-badge&labelColor=000000)](#mission-control)
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Manrope&weight=700&size=18&duration=3200&pause=900&color=FFFFFF&background=000000&center=true&vCenter=true&width=980&lines=React+%2B+TypeScript+%2B+SwiftUI+%2B+FastAPI+%2B+Supabase;GitHub+governance+%2B+CI%2FCD+%2B+release+verification;Smallest+useful+system+first%2C+then+harden+with+real+feedback)](https://git.io/typing-svg)
+[![Hushh Labs](https://img.shields.io/badge/Hushh%20Labs-Apple--first%20product%20systems-001F3F?style=for-the-badge&logo=github&logoColor=FFFFFF&labelColor=000000)](https://github.com/hushh-labs)
+[![Design System](https://img.shields.io/badge/Design-iOS%20HIG%20%2B%20Web%20A11y-007AFF?style=for-the-badge&labelColor=000000)](#design-principles)
 
 </div>
 
-## Mission Control
+## Mission
 
-I build product-facing Hushh/Hussh systems across web, mobile, backend, data, and release automation. My strongest public signal is inside [`hushh-labs`](https://github.com/hushh-labs), especially product surfaces, RIA and agent workflows, consent-aware systems, Supabase integrations, security hardening, repo governance, CI, and dashboards.
+I build Hushh/Hussh product systems with an Apple-first, iOS-first design bias: clear hierarchy, accessible interaction, calm motion, safe defaults, and automation that makes releases easier to trust.
 
-| Lock | Value |
+My strongest public signal lives inside [`hushh-labs`](https://github.com/hushh-labs), especially Hushh Agents, Hushh Tech Website, research/product workflows, consent-aware backends, and developer operations.
+
+| Profile Lock | Value |
 | --- | --- |
-| Palette | `#000000`, `#FFFFFF`, `#001F3F`, `#007AFF` |
-| Font target | `Manrope` |
-| Focus | Hushh AI, agent discovery, consent flows, metrics, developer ops |
-| Stack | React, TypeScript, SwiftUI, Python, FastAPI, Supabase |
-| Mode | Build small, verify with automation, harden with real feedback |
+| Primary platform | iOS first, then web and macOS |
+| Visual system | Black, white, navy, Apple iOS blue |
+| Typography target | Manrope for controllable SVG/profile assets |
+| Product focus | Hushh Agents, RIA workflows, consent-aware AI, metrics, release automation |
+| Engineering posture | Small useful system, automated verification, human-readable tradeoffs |
 
-## Live Contribution System
+## Design Principles
+
+| Skill lens | How I apply it |
+| --- | --- |
+| iOS HIG | Prioritize clear navigation, 44pt-equivalent touch targets, thumb-zone primary actions, safe-area thinking, Dynamic Type-friendly layouts, and contextual permission asks. |
+| macOS HIG | Keep advanced workflows discoverable through command surfaces, keyboard-friendly actions, sidebar-style information architecture, and power-user clarity. |
+| Web accessibility | Use semantic structure, visible focus, responsive layouts, sufficient contrast, descriptive alt text, and reduced decorative motion. |
+
+## Currently Shipping
+
+| Surface | What I build | Public signal |
+| --- | --- | --- |
+| Hushh Agents for iOS | SwiftUI agent discovery, onboarding, profiles, auth flows, and release/TestFlight work | [`hushh-labs/hushh-agents`](https://github.com/hushh-labs/hushh-agents) |
+| Hushh Tech Website | Product surfaces, API wrappers, Supabase paths, tests, CI, security, and repo governance | [`hushh-labs/hushh_Tech_website`](https://github.com/hushh-labs/hushh_Tech_website) |
+| Hushh Research | RIA access flows, personal-data experiments, backend service paths, and contribution governance | [`hushh-labs/hushh-research`](https://github.com/hushh-labs/hushh-research) |
+| Consent Protocol | FastAPI consent-first backend paths for personal data agents and safe automation | [`hushh-labs/consent-protocol`](https://github.com/hushh-labs/consent-protocol) |
+
+## Contribution Signal
 
 <div align="center">
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=ankitkumarsingh1702&show_icons=true&hide_border=false&rank_icon=github&include_all_commits=true&custom_title=GitHub%20Commitment%20Signal&bg_color=000000&title_color=007AFF&text_color=FFFFFF&icon_color=007AFF&border_color=001F3F)
+![GitHub commitment signal](https://github-readme-stats.vercel.app/api?username=ankitkumarsingh1702&show_icons=true&hide_border=false&rank_icon=github&include_all_commits=true&custom_title=GitHub%20Commitment%20Signal&bg_color=000000&title_color=007AFF&text_color=FFFFFF&icon_color=007AFF&border_color=001F3F)
 
-![GitHub streak](https://streak-stats.demolab.com?user=ankitkumarsingh1702&hide_border=false&background=000000&border=001F3F&stroke=001F3F&ring=007AFF&fire=007AFF&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=007AFF&sideLabels=FFFFFF&dates=FFFFFF)
-
-![Contribution graph](https://github-readme-activity-graph.vercel.app/graph?username=ankitkumarsingh1702&bg_color=000000&color=FFFFFF&line=007AFF&point=FFFFFF&area=true&area_color=001F3F&title_color=007AFF&hide_border=true&grid=false&custom_title=Daily%20Public%20Contribution%20Map)
+![Daily public contribution map](https://github-readme-activity-graph.vercel.app/graph?username=ankitkumarsingh1702&bg_color=000000&color=FFFFFF&line=007AFF&point=FFFFFF&area=true&area_color=001F3F&title_color=007AFF&hide_border=true&grid=false&custom_title=Daily%20Public%20Contribution%20Map)
 
 ![Hushh Tech latest](https://img.shields.io/github/last-commit/hushh-labs/hushh_Tech_website?style=for-the-badge&label=Hushh%20Tech%20latest&labelColor=000000&color=007AFF)
 ![Hushh Tech monthly](https://img.shields.io/github/commit-activity/m/hushh-labs/hushh_Tech_website?style=for-the-badge&label=Hushh%20Tech%20monthly&labelColor=000000&color=001F3F)
 ![Research latest](https://img.shields.io/github/last-commit/hushh-labs/hushh-research?style=for-the-badge&label=Research%20latest&labelColor=000000&color=007AFF)
-![Research monthly](https://img.shields.io/github/commit-activity/m/hushh-labs/hushh-research?style=for-the-badge&label=Research%20monthly&labelColor=000000&color=001F3F)
-![Consent latest](https://img.shields.io/github/last-commit/hushh-labs/consent-protocol?style=for-the-badge&label=Consent%20latest&labelColor=000000&color=007AFF)
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ankitkumarsingh1702/ankitkumarsingh1702/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ankitkumarsingh1702/ankitkumarsingh1702/output/github-contribution-grid-snake.svg">
-  <img alt="GitHub contribution snake animation" src="https://raw.githubusercontent.com/ankitkumarsingh1702/ankitkumarsingh1702/output/github-contribution-grid-snake.svg">
-</picture>
+![Consent latest](https://img.shields.io/github/last-commit/hushh-labs/consent-protocol?style=for-the-badge&label=Consent%20latest&labelColor=000000&color=001F3F)
 
 </div>
 
-The contribution snake is regenerated by GitHub Actions every 6 hours, and the stats above render from public GitHub activity.
-
-## Currently Shipping
-
-| Track | What I build | Public signal |
-| --- | --- | --- |
-| Hushh AI | KAI, RIA workflows, AI search/console work, personal-data experiments, and research surfaces | [`hushh-labs/hushh-research`](https://github.com/hushh-labs/hushh-research) |
-| Hushh Technologies | Web/app surfaces, API wrappers, Supabase paths, metrics dashboards, tests, CI, security, and governance | [`hushh-labs/hushh_Tech_website`](https://github.com/hushh-labs/hushh_Tech_website) |
-| Hushh Agents | Browse-first RIA/agent discovery, onboarding, profiles, release work, and agent workspace prototypes | [`hushh-labs/hushh-agents`](https://github.com/hushh-labs/hushh-agents) |
-| Consent Protocol | Consent-first backend paths for personal data agents, FastAPI services, Supabase integration, and safe automation | [`hushh-labs/consent-protocol`](https://github.com/hushh-labs/consent-protocol) |
-
-## Featured Systems
+## Featured Work
 
 <div align="center">
 
-[![Hushh Tech Website](https://github-readme-stats.vercel.app/api/pin/?username=hushh-labs&repo=hushh_Tech_website&hide_border=false&bg_color=000000&title_color=007AFF&text_color=FFFFFF&icon_color=007AFF&border_color=001F3F)](https://github.com/hushh-labs/hushh_Tech_website)
-[![Hushh Research](https://github-readme-stats.vercel.app/api/pin/?username=hushh-labs&repo=hushh-research&hide_border=false&bg_color=000000&title_color=007AFF&text_color=FFFFFF&icon_color=007AFF&border_color=001F3F)](https://github.com/hushh-labs/hushh-research)
-
-[![Consent Protocol](https://github-readme-stats.vercel.app/api/pin/?username=hushh-labs&repo=consent-protocol&hide_border=false&bg_color=000000&title_color=007AFF&text_color=FFFFFF&icon_color=007AFF&border_color=001F3F)](https://github.com/hushh-labs/consent-protocol)
 [![Hushh Agents Clean](https://github-readme-stats.vercel.app/api/pin/?username=ankitkumarsingh1702&repo=hushh-agents-clean&hide_border=false&bg_color=000000&title_color=007AFF&text_color=FFFFFF&icon_color=007AFF&border_color=001F3F)](https://github.com/ankitkumarsingh1702/hushh-agents-clean)
+[![Hushh Tech Website](https://github-readme-stats.vercel.app/api/pin/?username=hushh-labs&repo=hushh_Tech_website&hide_border=false&bg_color=000000&title_color=007AFF&text_color=FFFFFF&icon_color=007AFF&border_color=001F3F)](https://github.com/hushh-labs/hushh_Tech_website)
 
 </div>
 
-| Project | Stack | Signal |
+| Project | Stack | Design/engineering signal |
 | --- | --- | --- |
-| [`hushh_Tech_website`](https://github.com/hushh-labs/hushh_Tech_website) | React, TypeScript, Vite, Supabase, APIs | Public Hushh web/app wrapper, metrics, tests, CI, security hygiene, and repo governance |
-| [`hushh-agents`](https://github.com/hushh-labs/hushh-agents) | SwiftUI, Supabase, iOS | Browse-first RIA/agent discovery app with swipe deck, auth/onboarding, profiles, and release work |
-| [`hushh-agents-clean`](https://github.com/ankitkumarsingh1702/hushh-agents-clean) | TypeScript, React, Vite, Supabase | Personal agent-discovery prototype with onboarding screens, Supabase functions, migrations, and data tooling |
-| [`hushh-research`](https://github.com/hushh-labs/hushh-research) | TypeScript, Python, MCP | Research/product monorepo contributions around RIA access, backend services, tests, and governance |
-| [`consent-protocol`](https://github.com/hushh-labs/consent-protocol) | Python, FastAPI, Supabase | Consent-first backend work in the Hushh personal-data-agent ecosystem |
-| [`hushh.ai-website`](https://github.com/hushh-labs/hushh.ai-website) | JavaScript | Public Hushh AI website work tied to product storytelling, developer surfaces, and responsive UI fixes |
+| [`hushh-agents`](https://github.com/hushh-labs/hushh-agents) | SwiftUI, Supabase, iOS | Browse-first RIA discovery with onboarding, profile flows, and iOS-native interaction patterns |
+| [`hushh-agents-clean`](https://github.com/ankitkumarsingh1702/hushh-agents-clean) | TypeScript, React, Vite, Supabase | Agent-discovery prototype with mobile-first onboarding, data capture, functions, and migrations |
+| [`hushh_Tech_website`](https://github.com/hushh-labs/hushh_Tech_website) | React, TypeScript, Vite, Supabase | Product web surfaces, API wrappers, metrics, tests, security hygiene, and repo governance |
+| [`hushh-research`](https://github.com/hushh-labs/hushh-research) | TypeScript, Python, MCP | Research/product monorepo work around RIA access, backend services, tests, and governance |
+| [`consent-protocol`](https://github.com/hushh-labs/consent-protocol) | Python, FastAPI, Supabase | Consent-first backend in the Hushh personal-data-agent ecosystem |
 
-## Stack Surface
+## Stack
 
 <div align="center">
 
-![TypeScript](https://img.shields.io/badge/TypeScript-001F3F?style=for-the-badge&logo=typescript&logoColor=FFFFFF&labelColor=000000)
-![React](https://img.shields.io/badge/React-007AFF?style=for-the-badge&logo=react&logoColor=FFFFFF&labelColor=000000)
-![Vite](https://img.shields.io/badge/Vite-001F3F?style=for-the-badge&logo=vite&logoColor=FFFFFF&labelColor=000000)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=FFFFFF&labelColor=001F3F)
-![Python](https://img.shields.io/badge/Python-007AFF?style=for-the-badge&logo=python&logoColor=FFFFFF&labelColor=000000)
-![FastAPI](https://img.shields.io/badge/FastAPI-001F3F?style=for-the-badge&logo=fastapi&logoColor=FFFFFF&labelColor=000000)
-![Supabase](https://img.shields.io/badge/Supabase-000000?style=for-the-badge&logo=supabase&logoColor=FFFFFF&labelColor=001F3F)
 ![SwiftUI](https://img.shields.io/badge/SwiftUI-007AFF?style=for-the-badge&logo=swift&logoColor=FFFFFF&labelColor=000000)
-![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-001F3F?style=for-the-badge&logo=githubactions&logoColor=FFFFFF&labelColor=000000)
-![GCP](https://img.shields.io/badge/GCP-007AFF?style=for-the-badge&logo=googlecloud&logoColor=FFFFFF&labelColor=000000)
+![iOS](https://img.shields.io/badge/iOS-001F3F?style=for-the-badge&logo=apple&logoColor=FFFFFF&labelColor=000000)
+![TypeScript](https://img.shields.io/badge/TypeScript-007AFF?style=for-the-badge&logo=typescript&logoColor=FFFFFF&labelColor=000000)
+![React](https://img.shields.io/badge/React-001F3F?style=for-the-badge&logo=react&logoColor=FFFFFF&labelColor=000000)
+![FastAPI](https://img.shields.io/badge/FastAPI-007AFF?style=for-the-badge&logo=fastapi&logoColor=FFFFFF&labelColor=000000)
+![Supabase](https://img.shields.io/badge/Supabase-001F3F?style=for-the-badge&logo=supabase&logoColor=FFFFFF&labelColor=000000)
+![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-007AFF?style=for-the-badge&logo=githubactions&logoColor=FFFFFF&labelColor=000000)
 
 </div>
 
 | Zone | Tools and patterns |
 | --- | --- |
-| Product UI | TypeScript, React, Next.js, Vite, component systems, responsive UX |
-| Backend + APIs | Python, FastAPI, Supabase, auth flows, service orchestration, integration wrappers |
-| Mobile | SwiftUI, Flutter, Dart, Kotlin experiments, onboarding, profile flows |
-| Data + AI | Jupyter, statistics, ML notebooks, AI search, console experiments, agent workflows |
-| Automation | GitHub Actions, branch protection, CI/CD, cloud jobs, smoke tests, reporting systems |
+| Apple/mobile | SwiftUI, iOS onboarding, profile flows, release/TestFlight paths |
+| Web product | TypeScript, React, Vite, responsive UI, semantic structure |
+| Backend | Python, FastAPI, Supabase, consent and auth boundaries |
+| Automation | GitHub Actions, branch protection, smoke tests, release verification |
 
-## Automation & Ops
+## Operating System
 
-Product surface -> API wrapper -> Supabase or service layer -> metrics and verification -> CI and release gates -> production feedback.
-
-- Automation should be observable, reversible, least-privilege, and useful to the people shipping the work.
-- I prefer official APIs, managed secrets, scripted checks, and evidence-backed status over manual clicking.
-- I write docs and governance when they reduce review friction, protect the repo, or make onboarding faster.
-
-## Engineering Values
-
-- Build the smallest useful system first, then strengthen it with real feedback.
-- Keep APIs clear, architecture readable, and tradeoffs documented.
-- Treat consent, security, and user trust as core product requirements.
-- Make engineering systems practical, fast, and grounded in the real workflow.
+- Default to the simplest navigable surface before adding more interaction.
+- Keep primary paths obvious and secondary actions discoverable.
+- Prefer native platform patterns over custom cleverness.
+- Verify with scripts, probes, and repeatable checks before calling anything done.
+- Document tradeoffs where the next engineer will actually need them.
