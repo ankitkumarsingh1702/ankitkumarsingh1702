@@ -32,6 +32,10 @@ jobs:
             dist/github-contribution-grid-snake.svg?color_snake=%23007AFF&color_dots=%23FFFFFF,%23001F3F,%23007AFF,%23007AFF,%23000000
             dist/github-contribution-grid-snake-dark.svg?color_snake=%23007AFF&color_dots=%23000000,%23001F3F,%23007AFF,%23007AFF,%23FFFFFF
 
+      - name: Enforce locked profile palette
+        run: |
+          perl -0pi -e 's/\x23\x31\x62\x31\x66\x32\x33\x30\x61/#00000000/g; s/purple/#007AFF/g' dist/*.svg
+
       - name: Publish SVGs to output branch
         uses: crazy-max/ghaction-github-pages@v5.0.0
         with:
