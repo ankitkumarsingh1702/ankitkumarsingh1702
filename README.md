@@ -1,67 +1,42 @@
 <div align="center">
 
-![Cyber Lab Header](https://capsule-render.vercel.app/api?type=waving&height=260&color=0:050B1E,45:111827,100:00F5FF&text=Ankit%20Kumar%20Singh&fontColor=E6F7FF&fontAlign=50&fontAlignY=36&fontSize=52&desc=Product%20Engineer%20%7C%20AI%20Systems%20%7C%20Consent-Aware%20Automation&descAlign=50&descAlignY=57&animation=fadeIn)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Manrope&weight=800&size=34&duration=2600&pause=700&color=007AFF&center=true&vCenter=true&width=980&lines=Ankit+Kumar+Singh;Product+Engineer+for+Hushh+AI+Systems;Consent-Aware+Agents+%7C+Supabase+%7C+Automation)](https://git.io/typing-svg)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&duration=2800&pause=850&color=00F5FF&center=true&vCenter=true&width=980&lines=Building+product-facing+Hushh+%2F+Hussh+systems;React+%2B+TypeScript+%2B+SwiftUI+%2B+FastAPI+%2B+Supabase;AI+agents+%7C+consent+flows+%7C+metrics+dashboards+%7C+release+automation)](https://git.io/typing-svg)
+[![GitHub](https://img.shields.io/badge/GitHub-ankitkumarsingh1702-007AFF?style=for-the-badge&logo=github&logoColor=FFFFFF&labelColor=000000)](https://github.com/ankitkumarsingh1702)
+[![Hushh Labs](https://img.shields.io/badge/Hushh%20Labs-product%20systems-001F3F?style=for-the-badge&logo=github&logoColor=FFFFFF&labelColor=000000)](https://github.com/hushh-labs)
+[![Palette](https://img.shields.io/badge/Palette-black%20%7C%20white%20%7C%20navy%20%7C%20iOS%20blue-007AFF?style=for-the-badge&labelColor=000000)](#mission-control)
 
-[![GitHub](https://img.shields.io/badge/GitHub-ankitkumarsingh1702-111827?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ankitkumarsingh1702)
-[![Hushh Labs](https://img.shields.io/badge/Hushh%20Labs-product%20systems-00F5FF?style=for-the-badge&logo=github&logoColor=111827)](https://github.com/hushh-labs)
-[![Profile Views](https://komarev.com/ghpvc/?username=ankitkumarsingh1702&style=for-the-badge&color=00f5ff&label=PROFILE+SCANS)](https://github.com/ankitkumarsingh1702)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Manrope&weight=700&size=18&duration=3200&pause=900&color=FFFFFF&background=000000&center=true&vCenter=true&width=980&lines=React+%2B+TypeScript+%2B+SwiftUI+%2B+FastAPI+%2B+Supabase;GitHub+governance+%2B+CI%2FCD+%2B+release+verification;Smallest+useful+system+first%2C+then+harden+with+real+feedback)](https://git.io/typing-svg)
 
 </div>
 
 ## Mission Control
 
-I build product-facing Hushh/Hussh systems across web, mobile, backend, data, and release automation. My public GitHub signal is strongest inside [`hushh-labs`](https://github.com/hushh-labs), where I work on AI product surfaces, RIA and agent workflows, consent-aware systems, Supabase integrations, security hardening, repo governance, CI, and dashboards that make product teams move faster.
+I build product-facing Hushh/Hussh systems across web, mobile, backend, data, and release automation. My strongest public signal is inside [`hushh-labs`](https://github.com/hushh-labs), especially product surfaces, RIA and agent workflows, consent-aware systems, Supabase integrations, security hardening, repo governance, CI, and dashboards.
 
-```txt
-operator.profile = {
-  focus: ["Hushh AI", "agent discovery", "consent flows", "metrics", "developer ops"],
-  frontend: ["React", "TypeScript", "Vite", "Next.js", "Tailwind"],
-  backend: ["Python", "FastAPI", "Supabase", "API orchestration"],
-  mobile: ["SwiftUI", "Flutter", "Dart", "Kotlin experiments"],
-  bias: "smallest useful system first, then harden with real users"
-}
-```
+| Lock | Value |
+| --- | --- |
+| Palette | `#000000`, `#FFFFFF`, `#001F3F`, `#007AFF` |
+| Font target | `Manrope` |
+| Focus | Hushh AI, agent discovery, consent flows, metrics, developer ops |
+| Stack | React, TypeScript, SwiftUI, Python, FastAPI, Supabase |
+| Mode | Build small, verify with automation, harden with real feedback |
 
-## Currently Shipping
-
-| Track | What I am building | Public signal |
-| --- | --- | --- |
-| Hushh AI | KAI, RIA workflows, AI search/console work, personal-data experiments, and product research surfaces | [`hushh-labs/hushh-research`](https://github.com/hushh-labs/hushh-research) |
-| Hushh Technologies | Web/app product surfaces, API wrappers, Supabase paths, metrics dashboards, tests, CI, security, and repo governance | [`hushh-labs/hushh_Tech_website`](https://github.com/hushh-labs/hushh_Tech_website) |
-| Hushh Agents | Browse-first RIA/agent discovery, onboarding, profiles, release/TestFlight work, and agent workspace prototypes | [`hushh-labs/hushh-agents`](https://github.com/hushh-labs/hushh-agents) |
-| Consent Protocol | Consent-first backend paths for personal data agents, FastAPI services, Supabase integration, and safe automation | [`hushh-labs/consent-protocol`](https://github.com/hushh-labs/consent-protocol) |
-
-## Live Signal
+## Live Contribution System
 
 <div align="center">
 
-![Ankit's GitHub stats](https://github-readme-stats.vercel.app/api?username=ankitkumarsingh1702&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&include_all_commits=true&custom_title=Control%20Room%20Telemetry)
-![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ankitkumarsingh1702&layout=compact&theme=tokyonight&hide_border=true&langs_count=10&card_width=340)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=ankitkumarsingh1702&show_icons=true&hide_border=false&rank_icon=github&include_all_commits=true&custom_title=GitHub%20Commitment%20Signal&bg_color=000000&title_color=007AFF&text_color=FFFFFF&icon_color=007AFF&border_color=001F3F)
 
-![GitHub streak](https://streak-stats.demolab.com?user=ankitkumarsingh1702&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)
+![GitHub streak](https://streak-stats.demolab.com?user=ankitkumarsingh1702&hide_border=false&background=000000&border=001F3F&stroke=001F3F&ring=007AFF&fire=007AFF&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=007AFF&sideLabels=FFFFFF&dates=FFFFFF)
 
-![Activity graph](https://github-readme-activity-graph.vercel.app/graph?username=ankitkumarsingh1702&theme=tokyo-night&hide_border=true&area=true&custom_title=Public%20Contribution%20Radar)
+![Contribution graph](https://github-readme-activity-graph.vercel.app/graph?username=ankitkumarsingh1702&bg_color=000000&color=FFFFFF&line=007AFF&point=FFFFFF&area=true&area_color=001F3F&title_color=007AFF&hide_border=true&grid=false&custom_title=Daily%20Public%20Contribution%20Map)
 
-![Trophies](https://github-profile-trophy.vercel.app/?username=ankitkumarsingh1702&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10&row=1&column=6)
-
-</div>
-
-## Contribution Command Center
-
-<div align="center">
-
-![Profile details](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ankitkumarsingh1702&theme=tokyonight)
-
-![Stats summary](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ankitkumarsingh1702&theme=tokyonight)
-![Productive time](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ankitkumarsingh1702&theme=tokyonight&utcOffset=5.5)
-
-![Hushh Tech latest](https://img.shields.io/github/last-commit/hushh-labs/hushh_Tech_website?style=for-the-badge&label=Hushh%20Tech%20latest)
-![Hushh Tech monthly](https://img.shields.io/github/commit-activity/m/hushh-labs/hushh_Tech_website?style=for-the-badge&label=Hushh%20Tech%20monthly)
-![Research latest](https://img.shields.io/github/last-commit/hushh-labs/hushh-research?style=for-the-badge&label=Research%20latest)
-![Research monthly](https://img.shields.io/github/commit-activity/m/hushh-labs/hushh-research?style=for-the-badge&label=Research%20monthly)
-![Consent latest](https://img.shields.io/github/last-commit/hushh-labs/consent-protocol?style=for-the-badge&label=Consent%20latest)
+![Hushh Tech latest](https://img.shields.io/github/last-commit/hushh-labs/hushh_Tech_website?style=for-the-badge&label=Hushh%20Tech%20latest&labelColor=000000&color=007AFF)
+![Hushh Tech monthly](https://img.shields.io/github/commit-activity/m/hushh-labs/hushh_Tech_website?style=for-the-badge&label=Hushh%20Tech%20monthly&labelColor=000000&color=001F3F)
+![Research latest](https://img.shields.io/github/last-commit/hushh-labs/hushh-research?style=for-the-badge&label=Research%20latest&labelColor=000000&color=007AFF)
+![Research monthly](https://img.shields.io/github/commit-activity/m/hushh-labs/hushh-research?style=for-the-badge&label=Research%20monthly&labelColor=000000&color=001F3F)
+![Consent latest](https://img.shields.io/github/last-commit/hushh-labs/consent-protocol?style=for-the-badge&label=Consent%20latest&labelColor=000000&color=007AFF)
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ankitkumarsingh1702/ankitkumarsingh1702/output/github-contribution-grid-snake-dark.svg">
@@ -71,17 +46,26 @@ operator.profile = {
 
 </div>
 
-The widgets above render live from public GitHub data. The contribution snake is regenerated by GitHub Actions every 6 hours and can also be refreshed manually from the Actions tab.
+The contribution snake is regenerated by GitHub Actions every 6 hours, and the stats above render from public GitHub activity.
+
+## Currently Shipping
+
+| Track | What I build | Public signal |
+| --- | --- | --- |
+| Hushh AI | KAI, RIA workflows, AI search/console work, personal-data experiments, and research surfaces | [`hushh-labs/hushh-research`](https://github.com/hushh-labs/hushh-research) |
+| Hushh Technologies | Web/app surfaces, API wrappers, Supabase paths, metrics dashboards, tests, CI, security, and governance | [`hushh-labs/hushh_Tech_website`](https://github.com/hushh-labs/hushh_Tech_website) |
+| Hushh Agents | Browse-first RIA/agent discovery, onboarding, profiles, release work, and agent workspace prototypes | [`hushh-labs/hushh-agents`](https://github.com/hushh-labs/hushh-agents) |
+| Consent Protocol | Consent-first backend paths for personal data agents, FastAPI services, Supabase integration, and safe automation | [`hushh-labs/consent-protocol`](https://github.com/hushh-labs/consent-protocol) |
 
 ## Featured Systems
 
 <div align="center">
 
-[![Hushh Tech Website](https://github-readme-stats.vercel.app/api/pin/?username=hushh-labs&repo=hushh_Tech_website&theme=tokyonight&hide_border=true)](https://github.com/hushh-labs/hushh_Tech_website)
-[![Hushh Research](https://github-readme-stats.vercel.app/api/pin/?username=hushh-labs&repo=hushh-research&theme=tokyonight&hide_border=true)](https://github.com/hushh-labs/hushh-research)
+[![Hushh Tech Website](https://github-readme-stats.vercel.app/api/pin/?username=hushh-labs&repo=hushh_Tech_website&hide_border=false&bg_color=000000&title_color=007AFF&text_color=FFFFFF&icon_color=007AFF&border_color=001F3F)](https://github.com/hushh-labs/hushh_Tech_website)
+[![Hushh Research](https://github-readme-stats.vercel.app/api/pin/?username=hushh-labs&repo=hushh-research&hide_border=false&bg_color=000000&title_color=007AFF&text_color=FFFFFF&icon_color=007AFF&border_color=001F3F)](https://github.com/hushh-labs/hushh-research)
 
-[![Consent Protocol](https://github-readme-stats.vercel.app/api/pin/?username=hushh-labs&repo=consent-protocol&theme=tokyonight&hide_border=true)](https://github.com/hushh-labs/consent-protocol)
-[![Hushh Agents Clean](https://github-readme-stats.vercel.app/api/pin/?username=ankitkumarsingh1702&repo=hushh-agents-clean&theme=tokyonight&hide_border=true)](https://github.com/ankitkumarsingh1702/hushh-agents-clean)
+[![Consent Protocol](https://github-readme-stats.vercel.app/api/pin/?username=hushh-labs&repo=consent-protocol&hide_border=false&bg_color=000000&title_color=007AFF&text_color=FFFFFF&icon_color=007AFF&border_color=001F3F)](https://github.com/hushh-labs/consent-protocol)
+[![Hushh Agents Clean](https://github-readme-stats.vercel.app/api/pin/?username=ankitkumarsingh1702&repo=hushh-agents-clean&hide_border=false&bg_color=000000&title_color=007AFF&text_color=FFFFFF&icon_color=007AFF&border_color=001F3F)](https://github.com/ankitkumarsingh1702/hushh-agents-clean)
 
 </div>
 
@@ -94,11 +78,20 @@ The widgets above render live from public GitHub data. The contribution snake is
 | [`consent-protocol`](https://github.com/hushh-labs/consent-protocol) | Python, FastAPI, Supabase | Consent-first backend work in the Hushh personal-data-agent ecosystem |
 | [`hushh.ai-website`](https://github.com/hushh-labs/hushh.ai-website) | JavaScript | Public Hushh AI website work tied to product storytelling, developer surfaces, and responsive UI fixes |
 
-## Tech Stack
+## Stack Surface
 
 <div align="center">
 
-[![Core stack](https://skillicons.dev/icons?i=ts,js,react,nextjs,vite,tailwind,python,fastapi,supabase,swift,flutter,dart,kotlin,docker,gcp,githubactions,git,github,vscode,figma&perline=10)](https://skillicons.dev)
+![TypeScript](https://img.shields.io/badge/TypeScript-001F3F?style=for-the-badge&logo=typescript&logoColor=FFFFFF&labelColor=000000)
+![React](https://img.shields.io/badge/React-007AFF?style=for-the-badge&logo=react&logoColor=FFFFFF&labelColor=000000)
+![Vite](https://img.shields.io/badge/Vite-001F3F?style=for-the-badge&logo=vite&logoColor=FFFFFF&labelColor=000000)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=FFFFFF&labelColor=001F3F)
+![Python](https://img.shields.io/badge/Python-007AFF?style=for-the-badge&logo=python&logoColor=FFFFFF&labelColor=000000)
+![FastAPI](https://img.shields.io/badge/FastAPI-001F3F?style=for-the-badge&logo=fastapi&logoColor=FFFFFF&labelColor=000000)
+![Supabase](https://img.shields.io/badge/Supabase-000000?style=for-the-badge&logo=supabase&logoColor=FFFFFF&labelColor=001F3F)
+![SwiftUI](https://img.shields.io/badge/SwiftUI-007AFF?style=for-the-badge&logo=swift&logoColor=FFFFFF&labelColor=000000)
+![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-001F3F?style=for-the-badge&logo=githubactions&logoColor=FFFFFF&labelColor=000000)
+![GCP](https://img.shields.io/badge/GCP-007AFF?style=for-the-badge&logo=googlecloud&logoColor=FFFFFF&labelColor=000000)
 
 </div>
 
@@ -106,42 +99,21 @@ The widgets above render live from public GitHub data. The contribution snake is
 | --- | --- |
 | Product UI | TypeScript, React, Next.js, Vite, component systems, responsive UX |
 | Backend + APIs | Python, FastAPI, Supabase, auth flows, service orchestration, integration wrappers |
-| Mobile | SwiftUI, Flutter, Dart, Kotlin experiments, app onboarding, profile flows |
-| Data + AI | Jupyter, statistics, ML notebooks, AI search/console experiments, agent workflows |
+| Mobile | SwiftUI, Flutter, Dart, Kotlin experiments, onboarding, profile flows |
+| Data + AI | Jupyter, statistics, ML notebooks, AI search, console experiments, agent workflows |
 | Automation | GitHub Actions, branch protection, CI/CD, cloud jobs, smoke tests, reporting systems |
 
 ## Automation & Ops
 
-```mermaid
-flowchart LR
-  A[Product surface] --> B[API wrapper]
-  B --> C[Supabase or service layer]
-  C --> D[Metrics and verification]
-  D --> E[CI / release gates]
-  E --> F[Safer production feedback]
-```
+Product surface -> API wrapper -> Supabase or service layer -> metrics and verification -> CI and release gates -> production feedback.
 
-- I like automation that behaves like a product surface: observable, reversible, least-privilege, and useful to the people shipping the work.
+- Automation should be observable, reversible, least-privilege, and useful to the people shipping the work.
 - I prefer official APIs, managed secrets, scripted checks, and evidence-backed status over manual clicking.
 - I write docs and governance when they reduce review friction, protect the repo, or make onboarding faster.
 
 ## Engineering Values
 
-```txt
-ship.minimum_viable_system()
-listen.to_real_feedback()
-harden.with_tests_and_observability()
-document.tradeoffs()
-automate.reversible_paths()
-```
-
 - Build the smallest useful system first, then strengthen it with real feedback.
 - Keep APIs clear, architecture readable, and tradeoffs documented.
 - Treat consent, security, and user trust as core product requirements.
 - Make engineering systems practical, fast, and grounded in the real workflow.
-
-<div align="center">
-
-![Footer](https://capsule-render.vercel.app/api?type=rect&height=120&color=0:00F5FF,50:111827,100:050B1E&section=footer&text=building%20the%20next%20Hushh%20control%20room&fontColor=E6F7FF&fontSize=28&animation=twinkling)
-
-</div>
