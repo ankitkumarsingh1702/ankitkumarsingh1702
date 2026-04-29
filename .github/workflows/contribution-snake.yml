@@ -34,7 +34,7 @@ jobs:
 
       - name: Enforce locked profile palette
         run: |
-          perl -0pi -e 's/\x23\x31\x62\x31\x66\x32\x33\x30\x61/#00000000/g; s/purple/#007AFF/g' dist/*.svg
+          node -e "const fs=require('fs');for(const file of fs.readdirSync('dist').filter((name)=>name.endsWith('.svg'))){const path='dist/'+file;let svg=fs.readFileSync(path,'utf8');svg=svg.replaceAll('#'+'1b1f230a','#00000000').replaceAll('purple','#007AFF');fs.writeFileSync(path,svg);}"
 
       - name: Publish SVGs to output branch
         uses: crazy-max/ghaction-github-pages@v5.0.0
