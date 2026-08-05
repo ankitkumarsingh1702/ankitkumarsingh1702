@@ -1,101 +1,101 @@
 <div align="center">
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Manrope&weight=800&size=34&duration=3400&pause=1600&color=007AFF&center=true&vCenter=true&width=980&lines=Ankit+Kumar+Singh;iOS-first+Product+Engineer;SwiftUI+%7C+Hushh+Agents+%7C+Consent-aware+AI)](https://git.io/typing-svg)
-
-[![GitHub](https://img.shields.io/badge/GitHub-ankitkumarsingh1702-007AFF?style=for-the-badge&logo=github&logoColor=FFFFFF&labelColor=000000)](https://github.com/ankitkumarsingh1702)
-[![Hushh Labs](https://img.shields.io/badge/Hushh%20Labs-Apple--first%20product%20systems-001F3F?style=for-the-badge&logo=github&logoColor=FFFFFF&labelColor=000000)](https://github.com/hushh-labs)
-[![Design System](https://img.shields.io/badge/Design-iOS%20HIG%20%2B%20Web%20A11y-007AFF?style=for-the-badge&labelColor=000000)](#design-principles)
-
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="assets/header-dark.svg">
+    <img src="assets/header-light.svg" alt="Ankit Kumar Singh — Software Engineer, Full-Stack & Product" width="720">
+  </picture>
 </div>
-
-## Mission
-
-I build Hushh/Hussh product systems with an Apple-first, iOS-first design bias: clear hierarchy, accessible interaction, calm motion, safe defaults, and automation that makes releases easier to trust.
-
-My strongest public signal lives inside [`hushh-labs`](https://github.com/hushh-labs), especially Hushh Agents, Hushh Tech Website, research/product workflows, consent-aware backends, and developer operations.
-
-| Profile Lock | Value |
-| --- | --- |
-| Primary platform | iOS first, then web and macOS |
-| Visual system | Black, white, navy, Apple iOS blue |
-| Typography target | Manrope for controllable SVG/profile assets |
-| Product focus | Hushh Agents, RIA workflows, consent-aware AI, metrics, release automation |
-| Engineering posture | Small useful system, automated verification, human-readable tradeoffs |
-
-## Design Principles
-
-| Skill lens | How I apply it |
-| --- | --- |
-| iOS HIG | Prioritize clear navigation, 44pt-equivalent touch targets, thumb-zone primary actions, safe-area thinking, Dynamic Type-friendly layouts, and contextual permission asks. |
-| macOS HIG | Keep advanced workflows discoverable through command surfaces, keyboard-friendly actions, sidebar-style information architecture, and power-user clarity. |
-| Web accessibility | Use semantic structure, visible focus, responsive layouts, sufficient contrast, descriptive alt text, and reduced decorative motion. |
-
-## Currently Shipping
-
-| Surface | What I build | Public signal |
-| --- | --- | --- |
-| Hushh Agents for iOS | SwiftUI agent discovery, onboarding, profiles, auth flows, and release/TestFlight work | [`hushh-labs/hushh-agents`](https://github.com/hushh-labs/hushh-agents) |
-| Hushh Tech Website | Product surfaces, API wrappers, Supabase paths, tests, CI, security, and repo governance | [`hushh-labs/hushh_Tech_website`](https://github.com/hushh-labs/hushh_Tech_website) |
-| Hushh Research | RIA access flows, personal-data experiments, backend service paths, and contribution governance | [`hushh-labs/hushh-research`](https://github.com/hushh-labs/hushh-research) |
-| Consent Protocol | FastAPI consent-first backend paths for personal data agents and safe automation | [`hushh-labs/consent-protocol`](https://github.com/hushh-labs/consent-protocol) |
-
-## Contribution Signal
 
 <div align="center">
-
-![GitHub commitment signal](https://github-readme-stats.vercel.app/api?username=ankitkumarsingh1702&show_icons=true&hide_border=false&rank_icon=github&include_all_commits=true&custom_title=GitHub%20Commitment%20Signal&bg_color=000000&title_color=007AFF&text_color=FFFFFF&icon_color=007AFF&border_color=001F3F)
-
-![Daily public contribution map](https://github-readme-activity-graph.vercel.app/graph?username=ankitkumarsingh1702&bg_color=000000&color=FFFFFF&line=007AFF&point=FFFFFF&area=true&area_color=001F3F&title_color=007AFF&hide_border=true&grid=false&custom_title=Daily%20Public%20Contribution%20Map)
-
-![Hushh Tech latest](https://img.shields.io/github/last-commit/hushh-labs/hushh_Tech_website?style=for-the-badge&label=Hushh%20Tech%20latest&labelColor=000000&color=007AFF)
-![Hushh Tech monthly](https://img.shields.io/github/commit-activity/m/hushh-labs/hushh_Tech_website?style=for-the-badge&label=Hushh%20Tech%20monthly&labelColor=000000&color=001F3F)
-![Research latest](https://img.shields.io/github/last-commit/hushh-labs/hushh-research?style=for-the-badge&label=Research%20latest&labelColor=000000&color=007AFF)
-![Consent latest](https://img.shields.io/github/last-commit/hushh-labs/consent-protocol?style=for-the-badge&label=Consent%20latest&labelColor=000000&color=001F3F)
-
+  <a href="https://ankit-karma.web.app/">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="assets/portfolio-dark.svg">
+      <img src="assets/portfolio-light.svg" alt="Portfolio" height="34">
+    </picture>
+  </a>
+  &nbsp;&nbsp;
+  <a href="mailto:ankitkumarsingh97593@gmail.com">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="assets/email-dark.svg">
+      <img src="assets/email-light.svg" alt="Email" height="34">
+    </picture>
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://github.com/ankitkumarsingh1702">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="assets/github-dark.svg">
+      <img src="assets/github-light.svg" alt="GitHub" height="34">
+    </picture>
+  </a>
 </div>
 
-## Featured Work
+---
 
-<div align="center">
+Full-stack engineer building product surfaces end to end — React and TypeScript on the web,
+SwiftUI on iOS, Node.js and GraphQL behind them. I care about clear interfaces, tested code,
+and releases that ship without drama.
 
-[![Hushh Agents Clean](https://github-readme-stats.vercel.app/api/pin/?username=ankitkumarsingh1702&repo=hushh-agents-clean&hide_border=false&bg_color=000000&title_color=007AFF&text_color=FFFFFF&icon_color=007AFF&border_color=001F3F)](https://github.com/ankitkumarsingh1702/hushh-agents-clean)
-[![Hushh Tech Website](https://github-readme-stats.vercel.app/api/pin/?username=hushh-labs&repo=hushh_Tech_website&hide_border=false&bg_color=000000&title_color=007AFF&text_color=FFFFFF&icon_color=007AFF&border_color=001F3F)](https://github.com/hushh-labs/hushh_Tech_website)
+Currently at **Hushh.ai**, working on consent-aware AI products and the automation around them.
 
-</div>
+## Experience
 
-| Project | Stack | Design/engineering signal |
+| Role | Organization | Period |
 | --- | --- | --- |
-| [`hushh-agents`](https://github.com/hushh-labs/hushh-agents) | SwiftUI, Supabase, iOS | Browse-first RIA discovery with onboarding, profile flows, and iOS-native interaction patterns |
-| [`hushh-agents-clean`](https://github.com/ankitkumarsingh1702/hushh-agents-clean) | TypeScript, React, Vite, Supabase | Agent-discovery prototype with mobile-first onboarding, data capture, functions, and migrations |
-| [`hushh_Tech_website`](https://github.com/hushh-labs/hushh_Tech_website) | React, TypeScript, Vite, Supabase | Product web surfaces, API wrappers, metrics, tests, security hygiene, and repo governance |
-| [`hushh-research`](https://github.com/hushh-labs/hushh-research) | TypeScript, Python, MCP | Research/product monorepo work around RIA access, backend services, tests, and governance |
-| [`consent-protocol`](https://github.com/hushh-labs/consent-protocol) | Python, FastAPI, Supabase | Consent-first backend in the Hushh personal-data-agent ecosystem |
+| Software Engineer, Full-Stack & Product | Hushh.ai | Jun 2025 — Present |
+| Software Engineer Intern | CRED | Dec 2024 — May 2025 |
+| Open Source Engineering Mentor | Google | Dec 2023 — Dec 2024 |
+
+**Hushh.ai** — Shipped full-stack features across a React + TypeScript web app and a companion
+iOS app serving 50K+ users, lifting activation by 40%. Designed REST and GraphQL APIs on
+Node.js/TypeScript with event-driven sync, secure auth, and offline support at p95 &lt; 100ms.
+Owned CI/CD on GitHub Actions across 15+ feature launches. Integrated 30+ third-party SDKs and
+instrumented analytics processing 10M+ events/month.
+
+**CRED** — Built user-facing features for a consumer app serving 1M+ DAU, improving retention
+by 15%. Implemented a personalization engine with cohort segmentation and A/B tested rollouts
+that cut churn by 50%. Reduced app launch time by 30% and eliminated memory leaks in complex
+view hierarchies.
+
+**Google** — Mentored 100+ students through 30+ shipped applications and delivered 11+ workshops
+on development practices, API integration, and CI/CD.
+
+## Selected Work
+
+| Project | Stack | What it is |
+| --- | --- | --- |
+| [hushh-research](https://github.com/hushh-labs/hushh-research) | TypeScript, Python, MCP | Research and product monorepo for RIA access flows and backend services |
+| [hushh-agents](https://github.com/hushh-labs/hushh-agents) | SwiftUI, Supabase, iOS | Native agent discovery, onboarding, and profile flows |
+| [consent-protocol](https://github.com/hushh-labs/consent-protocol) | Python, FastAPI, Supabase | Consent-first backend for personal data agents |
+| [hushh-agents-clean](https://github.com/ankitkumarsingh1702/hushh-agents-clean) | TypeScript, React, Vite | Agent-discovery prototype with mobile-first onboarding |
+| [portfolio-website](https://github.com/ankitkumarsingh1702/portfolio-website) | Next.js, TypeScript | Personal portfolio — [ankit-karma.web.app](https://ankit-karma.web.app/) |
+
+Also built a full-stack investment platform with multi-step KYC, payments, and secure auth
+(funnel redesigned from 9 steps to 5), and open-sourced a privacy-first analytics library with
+event tracking, funnel analysis, and A/B testing hooks.
 
 ## Stack
 
+| Area | Tools |
+| --- | --- |
+| Languages | JavaScript, TypeScript, Swift, Python, SQL |
+| Frontend | React, Next.js, SwiftUI, HTML/CSS, responsive design, accessibility |
+| Backend | Node.js, GraphQL, REST, WebSockets, event-driven architecture |
+| Data & cloud | PostgreSQL, Supabase, Firebase, Google Cloud Run |
+| Delivery | GitHub Actions, unit and integration testing, automated QA |
+| Analytics | Mixpanel, Amplitude, Segment |
+
+## Education
+
+**B.E. Information Technology** — Army Institute of Technology, Pune · GPA 9.04
+
+## How I Work
+
+- Ship the simplest surface that solves the problem, then refine it.
+- Prefer native platform patterns over custom cleverness.
+- Verify with tests and repeatable checks before calling anything done.
+- Write down tradeoffs where the next engineer will need them.
+
 <div align="center">
 
-![SwiftUI](https://img.shields.io/badge/SwiftUI-007AFF?style=for-the-badge&logo=swift&logoColor=FFFFFF&labelColor=000000)
-![iOS](https://img.shields.io/badge/iOS-001F3F?style=for-the-badge&logo=apple&logoColor=FFFFFF&labelColor=000000)
-![TypeScript](https://img.shields.io/badge/TypeScript-007AFF?style=for-the-badge&logo=typescript&logoColor=FFFFFF&labelColor=000000)
-![React](https://img.shields.io/badge/React-001F3F?style=for-the-badge&logo=react&logoColor=FFFFFF&labelColor=000000)
-![FastAPI](https://img.shields.io/badge/FastAPI-007AFF?style=for-the-badge&logo=fastapi&logoColor=FFFFFF&labelColor=000000)
-![Supabase](https://img.shields.io/badge/Supabase-001F3F?style=for-the-badge&logo=supabase&logoColor=FFFFFF&labelColor=000000)
-![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-007AFF?style=for-the-badge&logo=githubactions&logoColor=FFFFFF&labelColor=000000)
+**[ankit-karma.web.app](https://ankit-karma.web.app/)** · ankitkumarsingh97593@gmail.com
 
 </div>
-
-| Zone | Tools and patterns |
-| --- | --- |
-| Apple/mobile | SwiftUI, iOS onboarding, profile flows, release/TestFlight paths |
-| Web product | TypeScript, React, Vite, responsive UI, semantic structure |
-| Backend | Python, FastAPI, Supabase, consent and auth boundaries |
-| Automation | GitHub Actions, branch protection, smoke tests, release verification |
-
-## Operating System
-
-- Default to the simplest navigable surface before adding more interaction.
-- Keep primary paths obvious and secondary actions discoverable.
-- Prefer native platform patterns over custom cleverness.
-- Verify with scripts, probes, and repeatable checks before calling anything done.
-- Document tradeoffs where the next engineer will actually need them.
